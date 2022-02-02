@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jacek Knapczyk.
+- 👀 I’m interested in cousine, cars, football and aviation.
+- 🌱 I’m currently learning html, css, sass, javascript.
+- 📫 How to reach me jacekknapczyk@protonmail.com.
+- 🤞I'm looking for a job in IT. Can start ASAP.
